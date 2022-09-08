@@ -4,6 +4,11 @@
 #Running the program            
             #Method 1
  ##Open Sipho'sProgram Microsoft Visual Studio Solution
+ 
+            #Method 2
+ ##Github repository link: https://github.com/MthoKhumalo/TimeManagement2
+   **Copy link to Visual Studio and clone the files**
+   **Open all classes as specified below**
 
 
 #System Requirements
